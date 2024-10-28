@@ -25,4 +25,5 @@ What are some risks AI poses, such as job automation, bias in algorithms, or cyb
 
 One of the most discussed risks of AI is job automation. As AI systems become more capable, they can perform tasks traditionally done by humans, leading to job displacement in various industries. For example, roles in manufacturing, customer service, and even professional fields like law and medicine are increasingly susceptible to automation.
 
-
+# October 28, 2024
+One major concern is the security of voting systems. Cybersecurity threats pose risks to the integrity of elections. For instance, vulnerabilities in EVMs or online voting platforms can be exploited by malicious actors to manipulate results or disrupt the electoral process. The 2016 U.S. presidential election highlighted these concerns when Russian hackers targeted state election systems, raising alarms about potential interference.
